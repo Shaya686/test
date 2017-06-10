@@ -37,6 +37,7 @@ include_once ('pages/functions.php');
              	 echo '<script>window.location=document.URL</script>';
              }
            //////////knhgljknhlgkn
+             ///////dgjfkjnkfnb
             				}
 				elseif(isset($_POST['Logout']))
 				{//session_destroy();
